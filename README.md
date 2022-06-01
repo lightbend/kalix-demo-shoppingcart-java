@@ -1,5 +1,5 @@
 # Shopping Cart DEMO - Java - Event Sourced
-
+Not supported by Lightbend in any conceivable way, not open for contributions.
 ## Prerequisite
 - Java 11 or later<br>
 - Apache Maven 3.6 or higher<br>
